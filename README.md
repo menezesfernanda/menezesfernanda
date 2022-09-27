@@ -6,7 +6,10 @@
 - 🔭 I'm working on Linux FileSystems and Hardware troubleshooting for Network Attached Storage Services as Technical Support Engineer at Dell.
 - 🌱 I’m currently learning bash and python for the role, but also interested in AWS services
 
+##
+
 <a href="https://app.daily.dev/ferodrigues"><img src="https://api.daily.dev/devcards/45e50fd82fe14d078ae87288b42a5088.png?r=dcf" width="400" alt="Fernanda Menezes Rodrigues's Dev Card"/></a>
+
 
 
 <!--
