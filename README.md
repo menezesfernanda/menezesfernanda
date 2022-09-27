@@ -3,7 +3,7 @@
 ## I'm Fernanda Menezes Rodrigues
 ### Computer Scientist & Environmental Engineer
 
-- 🔭 I'm working on Linux FileSystems and Hardware troubleshooting for Network Attached Storage Services as Technical Support Engineer at Dell.
+- 🔭 I'm working on Linux FileSystems and Hardware troubleshooting for Network Attached Storage Services as Technical Support Engineer at Dell/Power Scale Isilon.
 - 🌱 I’m currently learning bash and python for the role, but also interested in AWS services
 
 ##
