@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Fernanda Menezes Rodrigues
+Computer Scientist & Environmental Engineer
+
+- 🔭 I'm working on Linux FileSystems and Hardware troubleshooting for Network Attached Storage Services as Technical Support Engineer at Dell.
+- 🌱 I’m currently learning bash and python for the role, but also interested in AWS services
+
 <!--
 **menezesfernanda/menezesfernanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
